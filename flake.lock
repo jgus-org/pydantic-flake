@@ -44,11 +44,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1788549839,
-        "narHash": "sha256-kOrCcSIA6w9J1hX5DqHy2k9pDTJymExTsbV74U9UtCA=",
+        "lastModified": 1788608636,
+        "narHash": "sha256-RqeFOwW329f4i1f5QlJgQYwgEZvxIHJsUYlzIBxsKsY=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "17de0b976395537756f30a3e78f2f06e5cec89ed",
+        "rev": "0af3d1402dec3fc7e93635e511d1f7428c89cebf",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1788694431,
-        "narHash": "sha256-1vTsgRrBZbt/vOKfS9tSL27JUXihAyExHJ7Acc1QOqw=",
+        "lastModified": 1788787278,
+        "narHash": "sha256-YY00c+Z48OF4nyRdeEOyYCl9e6jWOgayQ9ExLhj1s/E=",
         "owner": "jgus",
         "repo": "pydantic-core-flake",
-        "rev": "517db781b4e6fa89a2e761696da8bdb057929673",
+        "rev": "5f786885f6a1ce0b01a74fa6a8d4a6e9ec6805c4",
         "type": "github"
       },
       "original": {
