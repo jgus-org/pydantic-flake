@@ -5,12 +5,12 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     flake-lib = {
-      url = "github:jgus/flake-lib/v1";
+      url = "github:jgus-org/flake-lib/v1";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
     pydantic-core = {
-      url = "github:jgus/pydantic-core-flake";
+      url = "github:jgus-org/pydantic-core-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
@@ -58,7 +58,7 @@
                 {
                   reqName = "pydantic-core";
                   pypiName = "pydantic-core";
-                  flakeRepo = "jgus/pydantic-core-flake";
+                  flakeRepo = "jgus-org/pydantic-core-flake";
                   mode = "exact";
                 }
               ];
