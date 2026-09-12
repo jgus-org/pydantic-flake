@@ -10,11 +10,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789076164,
-        "narHash": "sha256-J1ejsQ8AkC0oRhXWYJO7BkeSiop7t2qovIU2IGUnPmE=",
+        "lastModified": 1789155713,
+        "narHash": "sha256-eaf+KShNf99BTkcJ2wS8Fl7yHrfXCQFtanAK9ZYJ+4c=",
         "owner": "jgus-org",
         "repo": "flake-lib",
-        "rev": "65799267ab37656b9a92af28c50675768a4a052b",
+        "rev": "c824b2e18456ba6982231c891dda2d2fb3cd7479",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789128290,
-        "narHash": "sha256-7H8pt/BvZUazs+U90SjwReDYUvfCtJ2yZkrfKW+BW+w=",
+        "lastModified": 1789212706,
+        "narHash": "sha256-m4Rv0cirHiTJx1YcGsJ4TYX/GJjnAhG7jSI1vkL5uNc=",
         "owner": "jgus-org",
         "repo": "pydantic-core-flake",
-        "rev": "65b8e6b15575035eb6004c9dcd53d461bfbd02f0",
+        "rev": "e406367fa0cb0077ea9cd56990ff72500b0abac2",
         "type": "github"
       },
       "original": {
