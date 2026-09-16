@@ -71,11 +71,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789475502,
+        "lastModified": 1789562437,
         "narHash": "sha256-6iJJsAwd7CQutqVoK5HlFnSOPLkzi8oojYEURTXT5lk=",
         "owner": "jgus-org",
         "repo": "pydantic-core-flake",
-        "rev": "5655f42968e3220b49242f81b4c58ab981f3f587",
+        "rev": "74d605886f4b9a631a78352e6655948f125afb8a",
         "type": "github"
       },
       "original": {
